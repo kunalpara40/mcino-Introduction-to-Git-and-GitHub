@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-This project provides a simple interest calculator.
+This project provides a Bash-based simple interest calculator.
